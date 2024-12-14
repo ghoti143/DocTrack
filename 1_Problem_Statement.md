@@ -5,4 +5,4 @@
 
 ---
 
-[Next: The Solution](2_The_Solution.md){: .navigation-link }
+[Next: The Solution](2_The_Solution.html)
