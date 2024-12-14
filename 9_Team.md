@@ -8,3 +8,8 @@
 
 ### **Advisors**
 - **Healthcare Advisors**: You will engage with healthcare industry experts to help refine the product, including doctors and hospital administrators.
+
+---
+
+- [Back: Partnership with Sentara](8_Partnership_with_Sentara.html)
+- [Next: Financial Projections](10_Financial_Projections.html)
