@@ -19,3 +19,8 @@
 ### **2027: Scaling & Partnership with Epic**
 - Pursue formal partnership with **Epic Systems** to offer DocTrack as an integrated solution via Epic’s App Orchard.
 - Expansion into other hospital systems and regions.
+
+---
+
+- [Back: Product Overview](4_Product_Overview.html)
+- [Next: Go-To-Market Strategy](6_Go-To-Market_Strategy.html)
