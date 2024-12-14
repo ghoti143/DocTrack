@@ -1,6 +1,6 @@
 # DocTrack Pitch Deck
 
-Welcome to the DocTrack Pitch Deck! Click below to navigate through the slides:
+Welcome to the DocTrack Pitch Deck! Click below to navigate through the slides:sad
 
 - [Problem Statement](1_Problem_Statement.html)
 - [The Solution](2_The_Solution.html)
