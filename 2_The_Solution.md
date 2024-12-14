@@ -6,3 +6,8 @@ An app designed to optimize the time spent during physician rounds, giving healt
 - **For Physicians**: DocTrack improves workflow by predicting rounds times and providing real-time updates on the physician’s schedule. Physicians can leave for breaks confidently, knowing when they’ll be needed next.
 - **For Patients & Families**: Provide patients and their families with more accurate waiting times and reduce stress while they wait for doctors.
 - **For Hospitals**: Hospitals can optimize scheduling, improve efficiency, and reduce stress on their medical teams, improving overall hospital performance.
+
+---
+
+[Next: Market Opportunity](3_Market_Opportunity.html)
+[Back: Problem Statement](1_Problem_Statement.html)
