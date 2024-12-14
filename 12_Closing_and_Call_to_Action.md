@@ -7,4 +7,3 @@
 ---
 
 - [Back: Exit Strategy](11_Exit_Strategy.html)
-- [Next: (No next slide)](javascript:void(0);)
