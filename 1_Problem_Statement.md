@@ -5,4 +5,5 @@
 
 ---
 
-[Next: The Solution](2_The_Solution.html)
+- [Back: Index](index.html)
+- [Next: The Solution](2_The_Solution.html)
