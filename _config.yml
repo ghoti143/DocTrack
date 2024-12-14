@@ -1,0 +1,35 @@
+title: "DocTrack Pitch Deck"
+email: "your-email@example.com"
+description: "A pitch deck for DocTrack, a doctor’s rounds tracking app."
+baseurl: "/doctrack-pitch-deck" # Update to match the name of your repository
+url: "https://ghoti143.github.io" # The URL where the site will be published
+twitter_username: "your_twitter_username"
+github_username: "ghoti143" # Your GitHub username
+
+theme: jekyll-theme-hemingway
+
+# Enable Google Analytics tracking (optional)
+google_analytics: "UA-XXXXXX-X"
+
+# Specify the path to your custom header images, if any
+header_image: "/assets/images/header.jpg"
+header_image_meta:
+  - "alt": "Header Image Alt Text"
+  - "caption": "Optional image caption"
+
+# Plugins (optional, e.g. for sharing buttons)
+plugins:
+  - jekyll-feed
+
+# Exclude pages and folders you don't want to be included in the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - node_modules
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
