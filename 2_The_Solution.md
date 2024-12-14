@@ -9,5 +9,5 @@ An app designed to optimize the time spent during physician rounds, giving healt
 
 ---
 
-[Next: Market Opportunity](3_Market_Opportunity.html)
-[Back: Problem Statement](1_Problem_Statement.html)
+- [Back: Problem Statement](1_Problem_Statement.html)
+- [Next: Market Opportunity](3_Market_Opportunity.html)
